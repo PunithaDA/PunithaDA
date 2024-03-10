@@ -5,7 +5,11 @@
 #### I collaborate with teams to develop impactful visualizations and dashboards in Power BI. 
 #### I'm passionate about pursuing a career in data analysis."
 
-
+## SKILLS
+#### Power BI
+#### MYSQL
+#### PYTHON
+#### MS EXCEL
 
 <!---
 PunithaDA/PunithaDA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
